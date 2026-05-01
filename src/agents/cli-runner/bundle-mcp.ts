@@ -239,7 +239,7 @@ async function writeGeminiSystemSettings(
   };
   const settings = applyMergePatch(base, {
     mcp: {
-      allowed: Object.keys(normalizedConfig.mcpServers),
+      allowed: Object.keys(normalizedConfig.mcpServers).toSorted(),
     },
     mcpServers: normalizedConfig.mcpServers,
   }) as Record<string, unknown>;

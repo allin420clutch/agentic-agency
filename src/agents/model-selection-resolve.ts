@@ -125,7 +125,7 @@ export function buildConfiguredAllowlistKeys(params: {
   cfg: OpenClawConfig | undefined;
   defaultProvider: string;
 }): Set<string> | null {
-  const rawAllowlist = Object.keys(params.cfg?.agents?.defaults?.models ?? {});
+  const rawAllowlist = Object.keys(params.cfg?.agents?.defaults?.models ?? {}).toSorted();
   if (rawAllowlist.length === 0) {
     return null;
   }
@@ -356,7 +356,7 @@ export function buildAllowedModelSet(params: {
   const catalog = params.catalog.map((entry) => applyModelCatalogMetadata({ entry, metadata }));
   const rawAllowlist = (() => {
     const modelMap = params.cfg.agents?.defaults?.models ?? {};
-    return Object.keys(modelMap);
+    return Object.keys(modelMap).toSorted();
   })();
   const allowAny = rawAllowlist.length === 0;
   const defaultModel = params.defaultModel?.trim();

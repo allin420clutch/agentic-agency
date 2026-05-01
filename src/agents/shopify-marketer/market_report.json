@@ -1,0 +1,806 @@
+{
+  "generated": "2026-04-26T00:12:56.218637",
+  "shopify_store": "sdssupplies.myshopify.com",
+  "existing_product_count": 88,
+  "underserved": [],
+  "moderate": [],
+  "all_niches": [
+    {
+      "niche": "Gym Fitness",
+      "keywords": [
+        "gym",
+        "fitness",
+        "workout",
+        "lifting",
+        "gains"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Yoga Wellness",
+      "keywords": [
+        "yoga",
+        "meditation",
+        "zen",
+        "mindfulness",
+        "wellness"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Gaming",
+      "keywords": [
+        "gamer",
+        "gaming",
+        "video game",
+        "twitch",
+        "esports"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.2,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Dog Lover",
+      "keywords": [
+        "dog",
+        "puppy",
+        "canine",
+        "dog mom",
+        "dog dad"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Cat Lover",
+      "keywords": [
+        "cat",
+        "kitten",
+        "feline",
+        "cat mom",
+        "cat dad"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Coffee Addict",
+      "keywords": [
+        "coffee",
+        "caffeine",
+        "espresso",
+        "latte",
+        "barista"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Craft Beer",
+      "keywords": [
+        "beer",
+        "brewery",
+        "craft beer",
+        "IPA",
+        "homebrew"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Camping Hiking",
+      "keywords": [
+        "camping",
+        "hiking",
+        "outdoors",
+        "trail",
+        "adventure"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Music Festival",
+      "keywords": [
+        "music festival",
+        " EDM",
+        "concert",
+        "rave",
+        "live music"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Retro Vintage",
+      "keywords": [
+        "retro",
+        "vintage",
+        "80s",
+        "90s",
+        "nostalgia"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.5,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Science Nerd",
+      "keywords": [
+        "science",
+        "nerd",
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Space Astronomy",
+      "keywords": [
+        "space",
+        "astronomy",
+        "NASA",
+        "galaxy",
+        "cosmos"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Weed Culture",
+      "keywords": [
+        "weed",
+        "cannabis",
+        "marijuana",
+        "stoner",
+        "cbd"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Weeb Anime",
+      "keywords": [
+        "anime",
+        "manga",
+        "weeb",
+        "otaku",
+        "japanese"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Crypto Web3",
+      "keywords": [
+        "crypto",
+        "bitcoin",
+        "blockchain",
+        "web3",
+        "NFT"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Remote Work",
+      "keywords": [
+        "remote work",
+        "WFH",
+        "work from home",
+        "freelance",
+        "digital nomad"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Fishing",
+      "keywords": [
+        "fishing",
+        "angler",
+        "fish",
+        "outdoors",
+        "bass"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "BBQ Grilling",
+      "keywords": [
+        "BBQ",
+        "grilling",
+        "smoker",
+        " BBQ",
+        "meat"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "CrossFit",
+      "keywords": [
+        "crossfit",
+        "WOD",
+        "functional fitness",
+        "crossfit games"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Running Marathon",
+      "keywords": [
+        "running",
+        "marathon",
+        "runner",
+        "5K",
+        "10K"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Pickleball",
+      "keywords": [
+        "pickleball",
+        "pickle ball",
+        "paddle",
+        "dink"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Skateboarding",
+      "keywords": [
+        "skateboard",
+        "skating",
+        "skater",
+        "ollie",
+        "vert"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Surfing",
+      "keywords": [
+        "surfing",
+        "surfer",
+        "beach",
+        "wave",
+        "ocean"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Photography",
+      "keywords": [
+        "photography",
+        "photographer",
+        "camera",
+        "photo",
+        "lens"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.9,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Drones",
+      "keywords": [
+        "drone",
+        "UAV",
+        "quadcopter",
+        "aerial",
+        "FPV"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Woodworking",
+      "keywords": [
+        "woodworking",
+        "wood worker",
+        "carpentry",
+        "wood craft",
+        "handmade"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Gardening",
+      "keywords": [
+        "gardening",
+        "garden",
+        "plants",
+        "flowers",
+        "greenthumb"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Astrology",
+      "keywords": [
+        "astrology",
+        "zodiac",
+        "horoscope",
+        "star sign",
+        "cosmic"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "True Crime",
+      "keywords": [
+        "true crime",
+        "murder",
+        "mystery",
+        "detective",
+        "podcast"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": " Horror",
+      "keywords": [
+        "horror",
+        "scary",
+        "Halloween",
+        "creepy",
+        "spooky"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Pizza",
+      "keywords": [
+        "pizza",
+        "pizzeria",
+        "pizza lover",
+        "pepperoni",
+        "pizzeria"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Sushi",
+      "keywords": [
+        "sushi",
+        "japanese food",
+        "sashimi",
+        "ramen",
+        "poke bowl"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Wine",
+      "keywords": [
+        "wine",
+        "vino",
+        "winery",
+        "sommelier",
+        "red wine"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Cocktails Bar",
+      "keywords": [
+        "cocktails",
+        "bartender",
+        "mixology",
+        " Margarita",
+        "moonshine"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Bookworm",
+      "keywords": [
+        "bookworm",
+        "reader",
+        "book lover",
+        "bibliophile",
+        "reading"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Teacher Educator",
+      "keywords": [
+        "teacher",
+        "educator",
+        "classroom",
+        "school",
+        "principal"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Nurse Medical",
+      "keywords": [
+        "nurse",
+        "RN",
+        "medical",
+        "healthcare",
+        "scrubs"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.2,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Firefighter",
+      "keywords": [
+        "firefighter",
+        "fireman",
+        "first responder",
+        "fire department"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Law Enforcement",
+      "keywords": [
+        "police",
+        "cop",
+        "law enforcement",
+        "officer",
+        "patrol"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Trucker",
+      "keywords": [
+        "trucker",
+        "truck driver",
+        "CDL",
+        "semi truck",
+        "18-wheeler"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Mechanic",
+      "keywords": [
+        "mechanic",
+        "auto repair",
+        "car guy",
+        " ASE",
+        "garage"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Entrepreneur",
+      "keywords": [
+        "entrepreneur",
+        "startup",
+        "business owner",
+        "CEO",
+        "hustle"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Real Estate",
+      "keywords": [
+        "real estate",
+        "realtor",
+        "house hunting",
+        "property",
+        "investor"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Stock Market",
+      "keywords": [
+        "stock market",
+        "investing",
+        "trader",
+        "wall street",
+        "dividend"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Vegan Plant-Based",
+      "keywords": [
+        "vegan",
+        "plant based",
+        "vegetarian",
+        "cruelty free",
+        "herbivore"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Keto Diet",
+      "keywords": [
+        "keto",
+        "ketogenic",
+        "low carb",
+        "keto diet",
+        "bacon"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Hunting",
+      "keywords": [
+        "hunting",
+        "deer hunting",
+        "camouflage",
+        "outdoorsman",
+        "bowhunting"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "VR Virtual Reality",
+      "keywords": [
+        "VR",
+        "virtual reality",
+        "meta quest",
+        "oculus",
+        "metaverse"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Masonry Construction",
+      "keywords": [
+        "masonry",
+        "bricklayer",
+        "construction",
+        "stone work",
+        "cement"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.75,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    },
+    {
+      "niche": "Welding",
+      "keywords": [
+        "welding",
+        "welder",
+        "fabrication",
+        "MIG welding",
+        " TIG"
+      ],
+      "trend_score": 0.0,
+      "rising": false,
+      "saturation": 0.0,
+      "related_queries": [],
+      "opportunity_score": 0.0,
+      "verdict": "SATURATED"
+    }
+  ]
+}
